@@ -20,7 +20,6 @@
 <a href="https://twitter.com/kanak_jadaun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kanak_jadaun" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kanak-jadaun-694312202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanak-jadaun-694312202" height="30" width="40" /></a>
 <a href="https://instagram.com/kanak_jadaun_248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kanak_jadaun_248" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/git_max" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="git_max" height="30" width="40" /></a>
 <a href="https://discord.gg/#7506" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#7506" height="30" width="40" /></a>
 </p>
 
